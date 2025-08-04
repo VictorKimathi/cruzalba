@@ -9,7 +9,7 @@ export function ProfileSection() {
           <Card className="bg-[#181C1F] border-[#181C1F] overflow-hidden">
             <CardContent className="p-0">
               <Image
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNfgknsA5mni1ac2P992RKxFc84wGE9uGrw&s?height=600&width=500?height=600&width=500"
+                src="v.jpg?height=600&width=500?height=600&width=500"
                 alt="Cruz Alba"
                 width={500}
                 height={600}
