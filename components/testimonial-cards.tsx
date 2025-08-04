@@ -9,7 +9,7 @@ const testimonials = [
     name: "Sarah Mitchell",
     role: "Senior Editor",
     company: "Better Living Today",
-    logo: "/placeholder.svg?height=40&width=120",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFxetXSFAap66Qt1oGgL60UZ35IoER2C4bg&s?height=40&width=120",
   },
   {
     quote:
@@ -17,7 +17,7 @@ const testimonials = [
     name: "Michael Chen",
     role: "Content Director",
     company: "Golden Hearth Media",
-    logo: "/placeholder.svg?height=40&width=120",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PIqzX1p7ueIQSi5p29gEtEf165sYb_DhWw&s?height=40&width=120",
   },
   {
     quote:
@@ -25,32 +25,9 @@ const testimonials = [
     name: "Emma Rodriguez",
     role: "Editorial Manager",
     company: "Home & Garden Weekly",
-    logo: "/placeholder.svg?height=40&width=120",
+    logo: "https://t4.ftcdn.net/jpg/04/43/25/95/360_F_443259545_PsPbDmm8HY7JLQU9Ew9DPOdAHtIhMtnD.jpg?height=40&width=120",
   },
-  {
-    quote:
-      "I've been following Cruz's work for years, and her articles have genuinely transformed how I think about my home. She makes design feel approachable and achievable.",
-    name: "Jennifer Walsh",
-    role: "Longtime Reader",
-    company: "Homeowner & Design Enthusiast",
-    logo: null,
-  },
-  {
-    quote:
-      "Cruz brings a perfect balance of expertise and relatability to every piece. Her garden and DIY content has helped me create the indoor oasis I always dreamed of.",
-    name: "David Park",
-    role: "Subscriber",
-    company: "Urban Gardening Community",
-    logo: null,
-  },
-  {
-    quote:
-      "The depth of research and practical testing that goes into Cruz's articles is evident in every recommendation. She's become our go-to writer for lifestyle content.",
-    name: "Lisa Thompson",
-    role: "Brand Manager",
-    company: "Lifestyle Media Group",
-    logo: "/placeholder.svg?height=40&width=120",
-  },
+ 
 ]
 
 export function TestimonialCards() {

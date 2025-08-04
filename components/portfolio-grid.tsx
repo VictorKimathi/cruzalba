@@ -10,7 +10,7 @@ const portfolioItems = [
       "How to create stunning interiors with fewer, better-chosen pieces that speak volumes about your personal style.",
     category: "Home Décor",
     publication: "Better Living Today",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdYPcOysHqBHTh4afPbfz7VrXGs614WliIQ&s?height=300&width=400",
+    image: "dd.jpg?height=300&width=400",
     link: "#",
   },
   {
@@ -18,7 +18,7 @@ const portfolioItems = [
     excerpt: "Transform your city apartment into a green sanctuary with these expert plant selection and care tips.",
     category: "Gardening",
     publication: "Golden Hearth Media",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6AIRi8Co3g-SGUoislbcfu-L7m9DHuU9VA&s?height=300&width=400",
+    image: "interior-design.jpg",
     link: "#",
   },
   {
@@ -26,7 +26,7 @@ const portfolioItems = [
     excerpt: "A complete studio apartment makeover that proves small spaces can be both functional and fabulous.",
     category: "Small Spaces",
     publication: "Home & Garden Weekly",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEGlxWlBkdLR0UOLCMrYNKZBa3Uvs9ed6UQ&s?height=300&width=400",
+    image: "bed.jpg?height=300&width=400",
     link: "#",
   },
 
