@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <main className="min-h-screen bg-[#0F1112]">
       <Hero />
-      <FeaturedWork />
+      {/* <FeaturedWork /> */}
       <AboutPreview />
     </main>
   )

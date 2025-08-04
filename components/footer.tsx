@@ -39,12 +39,7 @@ export function Footer() {
               <a href="mailto:albac0656@gmail.com" className="block text-[#d1d5db] hover:text-white transition-colors">
                 albac0656@gmail.com
               </a>
-              <a href="#" className="block text-[#d1d5db] hover:text-white transition-colors">
-                LinkedIn
-              </a>
-              <a href="#" className="block text-[#d1d5db] hover:text-white transition-colors">
-                Portfolio Archive
-              </a>
+           
             </div>
           </div>
         </div>

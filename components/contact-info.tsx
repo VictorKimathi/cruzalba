@@ -17,24 +17,7 @@ export function ContactInfo() {
                 </a>
               </div>
             </div>
-            <div className="flex items-center space-x-4">
-              <Linkedin className="h-6 w-6 text-white" />
-              <div>
-                <p className="text-[#d1d5db] font-medium">LinkedIn</p>
-                <a href="#" className="text-white hover:text-[#d1d5db] transition-colors">
-                  /in/cruz-alba
-                </a>
-              </div>
-            </div>
-            <div className="flex items-center space-x-4">
-              <Github className="h-6 w-6 text-white" />
-              <div>
-                <p className="text-[#d1d5db] font-medium">Portfolio Archive</p>
-                <a href="#" className="text-white hover:text-[#d1d5db] transition-colors">
-                  /cruz-alba-portfolio
-                </a>
-              </div>
-            </div>
+        
           </div>
         </CardContent>
       </Card>

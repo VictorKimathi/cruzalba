@@ -19,17 +19,20 @@ export function ResumeDownload() {
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <a href="resume.docx" download>
             <Button className="bg-white text-black hover:bg-[#d1d5db] px-8 py-3 rounded-full font-semibold">
               <Download className="mr-2 h-4 w-4" />
               Download PDF Resume
             </Button>
+            </a>
+{/* 
             <Button
               variant="outline"
               className="border-[#181C1F] text-[#d1d5db] hover:text-white hover:border-white px-8 py-3 rounded-full bg-transparent"
             >
               <QrCode className="mr-2 h-4 w-4" />
               QR Code
-            </Button>
+            </Button> */}
           </div>
 
           <p className="text-sm text-[#d1d5db]/70 mt-6">Last updated: December 2024 • PDF Format • 2 pages</p>

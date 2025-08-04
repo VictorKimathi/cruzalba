@@ -10,7 +10,7 @@ const portfolioItems = [
       "How to create stunning interiors with fewer, better-chosen pieces that speak volumes about your personal style.",
     category: "Home Décor",
     publication: "Better Living Today",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdYPcOysHqBHTh4afPbfz7VrXGs614WliIQ&s?height=300&width=400",
     link: "#",
   },
   {
@@ -18,7 +18,7 @@ const portfolioItems = [
     excerpt: "Transform your city apartment into a green sanctuary with these expert plant selection and care tips.",
     category: "Gardening",
     publication: "Golden Hearth Media",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6AIRi8Co3g-SGUoislbcfu-L7m9DHuU9VA&s?height=300&width=400",
     link: "#",
   },
   {
@@ -26,33 +26,10 @@ const portfolioItems = [
     excerpt: "A complete studio apartment makeover that proves small spaces can be both functional and fabulous.",
     category: "Small Spaces",
     publication: "Home & Garden Weekly",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEGlxWlBkdLR0UOLCMrYNKZBa3Uvs9ed6UQ&s?height=300&width=400",
     link: "#",
   },
-  {
-    title: "Sustainable Style: Eco-Friendly Home Updates",
-    excerpt: "Refresh your home with environmentally conscious choices that don't compromise on aesthetics or comfort.",
-    category: "Lifestyle",
-    publication: "Better Living Today",
-    image: "/placeholder.svg?height=300&width=400",
-    link: "#",
-  },
-  {
-    title: "The Art of Seasonal Decorating",
-    excerpt: "Master the subtle art of transitioning your home's décor through the seasons without breaking the bank.",
-    category: "Home Décor",
-    publication: "Golden Hearth Media",
-    image: "/placeholder.svg?height=300&width=400",
-    link: "#",
-  },
-  {
-    title: "Herb Gardens That Actually Thrive Indoors",
-    excerpt: "The complete guide to growing fresh herbs in your kitchen, from seed selection to harvest timing.",
-    category: "Gardening",
-    publication: "Home & Garden Weekly",
-    image: "/placeholder.svg?height=300&width=400",
-    link: "#",
-  },
+
 ]
 
 export function PortfolioGrid() {

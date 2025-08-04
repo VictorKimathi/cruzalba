@@ -8,7 +8,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
+          src="https://m.media-amazon.com/images/I/51gNFX4Zs0L._UF894,1000_QL80_.jpg?height=1080&width=1920"
           alt="Cozy home interior"
           fill
           className="object-cover opacity-30"
