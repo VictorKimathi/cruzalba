@@ -10,7 +10,7 @@ const portfolioItems = [
       "How to create stunning interiors with fewer, better-chosen pieces that speak volumes about your personal style.",
     category: "Home Décor",
     publication: "Better Living Today",
-    image: "dd.jpg?height=300&width=400",
+    image: "h.jpg?height=300&width=400",
     link: "#",
   },
   {
