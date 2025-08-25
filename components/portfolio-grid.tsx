@@ -5,26 +5,26 @@ import { ExternalLink } from "lucide-react"
 
 const portfolioItems = [
   {
-    title: "The Minimalist's Guide to Maximum Impact",
+    title: "How To Soundproof a Room Without Structural Changes",
     excerpt:
-      "How to create stunning interiors with fewer, better-chosen pieces that speak volumes about your personal style.",
+      "Noise has a way of slipping through walls, floors, and windows, breaking into your space when you least want it. The hum of traffic, the ring of a neighbor’s phone, or the thump of footsteps above can quickly turn a comfortable room into a source of frustration. In homes with shared walls or lightweight construction, these sounds can feel inescapable.",
     category: "Home Décor",
     publication: "Better Living Today",
     image: "h.jpg?height=300&width=400",
     link: "#",
   },
   {
-    title: "Urban Jungle: Creating Your Indoor Oasis",
-    excerpt: "Transform your city apartment into a green sanctuary with these expert plant selection and care tips.",
+    title: "How To Odor-Proof Indoor Compost in Small Spaces",
+    excerpt: "Indoor composting is a sustainable way to reduce household waste and create nutrient-rich material for plants. However, in confined areas like apartments or small homes, unpleasant smells can develop quickly if the composting process is not managed properly. Without the right setup and maintenance, these odors can make the space uncomfortable and discourage continued use.",
     category: "Gardening",
     publication: "Golden Hearth Media",
     image: "interior-design.jpg",
     link: "#",
   },
   {
-    title: "500 Square Feet, Infinite Possibilities",
-    excerpt: "A complete studio apartment makeover that proves small spaces can be both functional and fabulous.",
-    category: "Small Spaces",
+    title: "How To Keep Deer Out of Your Garden Without Fencing",
+    excerpt: "Deer can devastate a garden in just a few visits, stripping flowers, shrubs, vegetables, and even tree bark until little remains. In regions with large deer populations, this can feel like a never-ending struggle for homeowners and gardeners. While fencing is one of the most reliable ways to keep them out, it is not always practical because of cost, limited space, or local rules. This is where creative alternatives become essential for protecting your plants.",
+    category: "Gardening",
     publication: "Home & Garden Weekly",
     image: "bed.jpg?height=300&width=400",
     link: "#",
