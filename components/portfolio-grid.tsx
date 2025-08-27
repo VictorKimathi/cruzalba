@@ -19,7 +19,7 @@ const portfolioItems = [
     excerpt: "Indoor composting is a sustainable way to reduce household waste and create nutrient-rich material for plants. However, in confined areas like apartments or small homes, unpleasant smells can develop quickly if the composting process is not managed properly. Without the right setup and maintenance, these odors can make the space uncomfortable and discourage continued use.",
     category: "Gardening",
     publication: "Golden Hearth Media",
-    image: "odoor.jpg",
+    image: "odoor.webp",
     link: "How_To_Odor-Proof_Indoor_Compost_in Small_Spaces.pdf",
   },
   {
