@@ -11,7 +11,7 @@ const portfolioItems = [
     category: "Home Décor",
     publication: "Better Living Today",
     image: "https://acousticalsolutions.com/wp-content/uploads/2015/02/sound-check-studios-01.jpg?height=300&width=400",
-    link: "#",
+    link: "How_To_Soundproof_a_Room_Without_Structural_Changes.pdf",
   },
   {
     title: "How To Odor-Proof Indoor Compost in Small Spaces",
@@ -19,7 +19,7 @@ const portfolioItems = [
     category: "Gardening",
     publication: "Golden Hearth Media",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMclcRY411DlQmQ59aK-2yuSXzJ4TSrOmlw&s",
-    link: "#",
+    link: "How_To_Odor-Proof_Indoor_Compost_in Small_Spaces.pdf",
   },
   {
     title: "How To Keep Deer Out of Your Garden Without Fencing",
@@ -27,7 +27,7 @@ const portfolioItems = [
     category: "Gardening",
     publication: "Home & Garden Weekly",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyTY4ZIuhwrT4Rr23GViE-x3Pn1jNqlvU2A&s?height=300&width=400",
-    link: "#",
+    link: "How_To_Keep_Deer_Out_of_Your_Garden_Without_Fencing.pdf",
   },
 
 ]
