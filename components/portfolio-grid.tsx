@@ -10,7 +10,8 @@ const portfolioItems = [
       "Noise has a way of slipping through walls, floors, and windows, breaking into your space when you least want it. The hum of traffic, the ring of a neighbor’s phone, or the thump of footsteps above can quickly turn a comfortable room into a source of frustration. In homes with shared walls or lightweight construction, these sounds can feel inescapable.",
     category: "Home Décor",
     publication: "Better Living Today",
-    image: "https://acousticalsolutions.com/wp-content/uploads/2015/02/sound-check-studios-01.jpg?height=300&width=400",
+        image: "sound.jpg",
+ 
     link: "How_To_Soundproof_a_Room_Without_Structural_Changes.pdf",
   },
   {
@@ -18,7 +19,7 @@ const portfolioItems = [
     excerpt: "Indoor composting is a sustainable way to reduce household waste and create nutrient-rich material for plants. However, in confined areas like apartments or small homes, unpleasant smells can develop quickly if the composting process is not managed properly. Without the right setup and maintenance, these odors can make the space uncomfortable and discourage continued use.",
     category: "Gardening",
     publication: "Golden Hearth Media",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMclcRY411DlQmQ59aK-2yuSXzJ4TSrOmlw&s",
+    image: "odoor.jpg",
     link: "How_To_Odor-Proof_Indoor_Compost_in Small_Spaces.pdf",
   },
   {
@@ -26,7 +27,7 @@ const portfolioItems = [
     excerpt: "Deer can devastate a garden in just a few visits, stripping flowers, shrubs, vegetables, and even tree bark until little remains. In regions with large deer populations, this can feel like a never-ending struggle for homeowners and gardeners. While fencing is one of the most reliable ways to keep them out, it is not always practical because of cost, limited space, or local rules. This is where creative alternatives become essential for protecting your plants.",
     category: "Gardening",
     publication: "Home & Garden Weekly",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyTY4ZIuhwrT4Rr23GViE-x3Pn1jNqlvU2A&s?height=300&width=400",
+     image: "deer.jpg",
     link: "How_To_Keep_Deer_Out_of_Your_Garden_Without_Fencing.pdf",
   },
 
