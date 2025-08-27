@@ -36,7 +36,8 @@ export function PortfolioGrid() {
   return (
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
       {portfolioItems.map((item, index) => (
-        <Card
+        <a href={item.link}>
+     <Card
           key={index}
           className="bg-[#181C1F] border-[#181C1F] overflow-hidden group hover:scale-105 transition-all duration-300"
         >
@@ -65,6 +66,9 @@ export function PortfolioGrid() {
             </Button>
           </CardContent>
         </Card>
+
+        </a>
+   
       ))}
     </div>
   )
